@@ -1,0 +1,66 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #ADDBE8;
+}
+.logo{
+    position: absolute;
+    width: 1271px;
+    height: 88px;
+    left: 0px;
+    top: 0px;
+    background: #19A7CE;
+}
+.logo h1{
+    position: relative;
+width: 238px;
+height: 37px;
+left: 54px;
+top: 17px;
+
+font-family: 'Century Schoolbook';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+}
+
+.adm a{
+    position: relative;
+    width: 135px;
+    height: 48px;
+    left: 640px;
+    top: -2px;
+    font-family: 'Century Schoolbook';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+    padding-right: 50px;
+}
+
+h2{
+    position: relative;
+    top: 100;
+}
+
+.ossion{
+    position: relative;
+    top: 100px;
+    left: 6px;
+    width: 100vmax;
+}
+.data{
+    position: relative;
+    top: 100px;
+}
+.dt td{
+
+    padding-bottom: 10px;
+}
